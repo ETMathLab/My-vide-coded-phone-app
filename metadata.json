@@ -1,0 +1,8 @@
+{
+  "name": "MetricUS",
+  "description": "Calculator-based Metric to US Imperial unit converter for everyday measurements on Android and desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

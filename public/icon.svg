@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#18181B"/>
+  <rect x="64" y="64" width="384" height="384" rx="72" fill="#27272A"/>
+  <!-- Top precision scale ticks -->
+  <rect x="112" y="118" width="288" height="84" rx="16" fill="#18181B"/>
+  <rect x="136" y="138" width="6" height="24" rx="3" fill="#EA580C"/>
+  <rect x="164" y="138" width="4" height="14" rx="2" fill="#71717A"/>
+  <rect x="192" y="138" width="4" height="14" rx="2" fill="#71717A"/>
+  <rect x="220" y="138" width="6" height="24" rx="3" fill="#FAFAFA"/>
+  <rect x="248" y="138" width="4" height="14" rx="2" fill="#71717A"/>
+  <rect x="276" y="138" width="4" height="14" rx="2" fill="#71717A"/>
+  <rect x="304" y="138" width="6" height="24" rx="3" fill="#EA580C"/>
+  <rect x="332" y="138" width="4" height="14" rx="2" fill="#71717A"/>
+  <rect x="360" y="138" width="6" height="24" rx="3" fill="#FAFAFA"/>
+  <!-- Bottom keypad grid -->
+  <rect x="112" y="232" width="84" height="72" rx="14" fill="#3F3F46"/>
+  <rect x="214" y="232" width="84" height="72" rx="14" fill="#3F3F46"/>
+  <rect x="316" y="232" width="84" height="72" rx="14" fill="#EA580C"/>
+  <rect x="112" y="324" width="84" height="72" rx="14" fill="#3F3F46"/>
+  <rect x="214" y="324" width="84" height="72" rx="14" fill="#3F3F46"/>
+  <rect x="316" y="324" width="84" height="72" rx="14" fill="#FAFAFA"/>
+</svg>
